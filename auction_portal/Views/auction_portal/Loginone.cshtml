@@ -1,0 +1,164 @@
+﻿@model auction_portal.Models.tb_login
+
+@{
+    /**/
+
+    ViewBag.Title = "Loginone";
+    Layout = null;
+}
+
+<head>
+    <title>Bidding App </title>
+    <link href=@Url.Content("~/Content/bootstrap.css") rel="stylesheet" type="text/css" media="all">
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src=@Url.Content("~/Content/js/jquery-1.11.0.min.js")></script>
+    <!-- Custom Theme files -->
+    <link href=@Url.Content("~/Content/style.css") rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href=@Url.Content("~/Content/flexslider.css") type="text/css" media="screen" />
+    <link rel="stylesheet" type="text/css" href=@Url.Content("~/Content/magnific-popup.css")>
+    <script type="text/javascript" src="js/nivo-lightbox.min.js"></script>
+    <!-- Custom Theme files -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="keywords" content="Auction Responsive web template, Bootstrap Web Templates, Flat Web Templates, AndriodCompatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <!--Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <!-- start-smoth-scrolling -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src=@Url.Content("~/Content/js/move-top.js")></script>
+    <script type="text/javascript" src=@Url.Content("~/Content/js/easing.js")></script>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" initial-scale="1.0">
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <link href="~/Content/style.css" rel="stylesheet" />
+
+</head>
+<body style="background-image:url('../Content/images/adil.jpeg');background-repeat:no-repeat; background-size:cover">
+    @using (Html.BeginForm("Loginone", "auction_portal", FormMethod.Post))
+    {
+
+        <div class="header" style="margin-top:-50px;">
+            <div class="container">
+                <div class="header">
+                    <div class="top-nav">
+                        <span class="menu"> <img src=@Url.Content("~/Content/images/icon.png") alt="" /></span>
+
+                        <ul class="res">
+                            <li>@Html.ActionLink("HOME", "Account_selecter", "auction_portal")</li>
+                            <li>@Html.ActionLink("ABOUT US", "About", "auction_portal")</li>
+
+                            <li>@Html.ActionLink("CONTACT US", "Contact", "auction_portal")</li>
+                            <li>@Html.ActionLink("BIDDER", "Bidder", "auction_portal")</li>
+                            <li>@Html.ActionLink("SELLER", "Viewuser", "auction_portal")</li>
+
+
+
+                            @*<li>@Html.ActionLink("Login", "Login", "auction_portal")</li>*@
+
+                            <li>
+                                @Html.ActionLink("SIGN UP", "Login", "auction_portal")
+                            </li>
+                            <li>
+                                @Html.ActionLink("LOGOUT", "Logout", "auction_portal")
+                            </li>
+
+
+
+
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+            @*<div class="search-box">
+                    <div id="sb-search" class="sb-search">
+                        <form>
+                            <input class="sb-search-input" placeholder="Search" type="search" name="search" id="search">
+                            <input class="sb-search-submit" type="submit" value="">
+                            <span class="sb-icon-search"> </span>
+                        </form>
+                    </div>
+                </div>*@
+            <div class="clearfix"> </div>
+
+
+        </div>
+
+        <form>
+
+
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+            @*@if (@viewbag.message != null)
+                {
+                    <div style="border: 2px solid red">
+                        @viewbag.message
+                    </div>
+                }*@
+            <br> <br> <br>
+            <table style="height:40%;width:30%; margin-left:30%; background-color:whitesmoke;">
+
+                <h4 style="color:black; margin-left:30%;"> Please Enter Email and Password </h4>
+                <tr>
+                    <td style="padding-left:30px;">@Html.LabelFor(a => a.Email)</td>
+                    <td>@Html.TextBoxFor(a => a.Email)</td>
+                    <td>@Html.ValidationMessageFor(a => a.Email)</td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.LabelFor(a => a.password)
+                    </td>
+                    <td>
+                        @Html.PasswordFor(a => a.password)
+                    </td>
+                    <td>
+                        @Html.ValidationMessageFor(a => a.password)
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+
+                        <input type="submit" class="btn-primary" value="Login" />
+
+                        <p>Register Now</p>@Html.ActionLink("Click here", "Login", "auction_portal")
+                    </td>
+                    <td></td>
+                </tr>
+            </table>
+        </form>
+
+        @*</div>*@
+
+    }
+
+
+
+    <div class="banner" style="padding-top:100px; height:100px;">
+
+        <div class="copyright">
+            <div class="container">
+                <div class="copy-main">
+                    <div class="copy-left">
+                        <p>Design By<a href="" target="-blank"> Hina Shoukat</a></p>
+                    </div>
+                    <div class="copy-right">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+<br /><br /><br /><br /><br /><br /><br />
+<script src="~/Scripts/signupjs.js"></script>

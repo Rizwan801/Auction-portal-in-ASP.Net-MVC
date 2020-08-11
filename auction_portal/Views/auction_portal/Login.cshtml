@@ -1,0 +1,142 @@
+﻿
+
+@{
+    ViewBag.Title = "Login";
+  // Layout = null;
+
+}
+
+<head>
+    <title>Bidding App </title>
+    <link href=@Url.Content("~/Content/bootstrap.css") rel="stylesheet" type="text/css" media="all">
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src=@Url.Content("~/Content/js/jquery-1.11.0.min.js")></script>
+    <!-- Custom Theme files -->
+    <link href=@Url.Content("~/Content/style.css") rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href=@Url.Content("~/Content/flexslider.css") type="text/css" media="screen" />
+    <link rel="stylesheet" type="text/css" href=@Url.Content("~/Content/magnific-popup.css")>
+    <script type="text/javascript" src="js/nivo-lightbox.min.js"></script>
+    <!-- Custom Theme files -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="keywords" content="Auction Responsive web template, Bootstrap Web Templates, Flat Web Templates, AndriodCompatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <!--Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <!-- start-smoth-scrolling -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src=@Url.Content("~/Content/js/move-top.js")></script>
+    <script type="text/javascript" src=@Url.Content("~/Content/js/easing.js")></script>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" initial-scale="1.0">
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <link href="~/Content/style.css" rel="
+          stylesheet" />
+
+</head>
+ 
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+<div class="container">
+
+    @*@using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()*@
+
+    <div style="width:500px;margin-left:400px; background: url(../Content/images/4.png)no-repeat; display:inline-block;">
+
+        <form class="signup-form  signup-form-background  " name="signupForm" method="post" action="">
+            <div class="title-text">
+                <h2 class="title title-2 textalign">TRY NOW</h2>
+
+            </div>
+            <div class="signup-form-firstname form-group">
+                <span>First name<em>*</em></span>
+                <label class="form-label">
+                    <Required>
+                        <input class="form-input" type="text" id="Fname" name="Fname" autocomplete="given-name" maxlength="255" required data-required-error="First name can't be empty">
+                    </Required>
+                </label>
+            </div>
+            <div class="signup-form-lastname form-group">
+                <span>Last name<em>*</em></span>
+                <label class="form-label">
+                    <input class="form-input" type="text" id="Lname" name="Lname" autocomplete="family-name" maxlength="255" required data-required-error="Last name can't be empty">
+                </label>
+            </div>
+            <div class="signup-form-email form-group">
+                <span>Email adres<em></em></span>
+                <label class="form-label">
+                    <input class="form-input" type="email" id="Email" name="Email" autocomplete="Email" maxlength="100" required data-required-error="Email address can't be empty" data-email-error="Email address is invalid">
+                </label>
+            </div>
+            <div class="signup-form-email form-group">
+                <span>Password   <em style="color:white;">**</em></span>
+                <label class="form-label">
+                    <input class="form-input" type="password" id="password" name="password" maxlength="100" required data-required-error="Password required">
+                </label>
+            </div>
+
+            <div class="signup-form-email form-group">
+                <span>Telephone <em>*</em></span>
+                <label class="form-label">
+                    <input class="form-input" id="phone" type="text" name="phone" maxlength="20" data-required-error="tel Required">
+                </label>
+            </div>
+            <div class="signup-form-phone form-group">
+                <span>City   <em style="color:white;">********</em></span>
+                <label class="form-label">
+                    <input class="form-input" id="city" type="text" name="city" maxlength="20" data-required-error="City Required">
+                </label>
+            </div>
+            <div class="g-recaptcha form-group"></div>
+            <div class="signup-form-terms form-group">
+
+            </div>
+            
+            <div style="margin-left:210px;">
+                <div class="signup-form-submit form-group textalign">
+                     
+                        @*<div> @Html.ActionLink("Back", "loginone", "auction_portal")</div>*@
+                        <button type="button" onclick="javascript: signupdata();" class="btn btn-success">Submit</button>
+
+                    
+                </div>
+            </div>
+        </form>
+
+    </div>
+    <script src="~/Scripts/Contact/Addcustomer.js"></script>
+
+    @*}*@
+
+</div>
+ 
+ 
+ <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+
+    <script src="~/Content/auction_js.js"></script>
+
+    @*<script src="~/Scripts/Addcustomer.js"></script>*@
+    <script src="~/Scripts/signupjs.js"></script>

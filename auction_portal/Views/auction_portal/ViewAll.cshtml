@@ -1,0 +1,88 @@
+﻿@model IEnumerable<auction_portal.Models.tb_user> 
+
+@{
+    ViewBag.Title = "ViewAll";
+    Layout = null;
+}
+
+<div class="blog-detail">
+    <table class="table table-striped table-condensed">
+        <tr>
+            <th></th> 
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mobile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+
+
+
+        </tr>
+        
+        
+        @foreach (var item in Model)
+        {
+
+        <tr style="background-color:white;">
+            <td>
+                <div class="form-group">
+                    @*  @Html.LabelFor(modelItem => item.ImagePath, htmlAttributes: new { @class = "control-label col-md-2" })*@
+                    <div class="col-md-6">
+                        <img src="@Url.Content(item.ImagePath)" style="margin:10px" height="200" width="200" id="imagePreview" />
+                        @* <input type="file" name="ImageUpload" accept="image/jpeg, image/png" onchange="ShowImagePreview(this,document.getElementById('imagePreview'))" />*@
+                    </div>
+                </div>
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+
+
+            <td>
+            <!-- Default dropright button -->
+            <div class="btn-group dropright">
+                <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    ...
+                </button>
+                <div class="dropdown-menu">
+                    <!-- Dropdown menu links -->
+                    <a class="dropdown-item" href="#" onclick="Edit('@Url.Action("AddOrEdit","auction_portal", new { id=@item.ID})')">Update</a> <br><br>
+                    <a class="dropdown-item" href="#" onclick="Delete('@Url.Action("Delete", "auction_portal", new { id=@item.ID})')">Delete</a>
+
+                </div>
+            </div>
+
+            @*<i class="fa fa-pencil fa-lg"></i>
+                <i class="fa fa-trash fa-lg"></i>*@
+        </td>
+
+        </tr>
+        }
+
+    </table>
+
+</div>
+    <br><br><br><br><br>

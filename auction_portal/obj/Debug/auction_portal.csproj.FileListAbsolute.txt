@@ -1,0 +1,226 @@
+F:\Auction portal\auction_portal\auction_portal\bin\ApplicationInsights.config
+F:\Auction portal\auction_portal\auction_portal\bin\auction_portal.dll.config
+F:\Auction portal\auction_portal\auction_portal\bin\auction_portal.dll
+F:\Auction portal\auction_portal\auction_portal\bin\auction_portal.pdb
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.exe
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.exe.config
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.rsp
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\csi.exe
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\csi.rsp
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\System.AppContext.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Collections.Immutable.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\System.IO.FileSystem.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Reflection.Metadata.dll
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.exe
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.exe.config
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.rsp
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\VBCSCompiler.exe
+F:\Auction portal\auction_portal\auction_portal\bin\roslyn\VBCSCompiler.exe.config
+F:\Auction portal\auction_portal\auction_portal\bin\Antlr3.Runtime.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.DependencyCollector.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Web.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.WindowsServer.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.ApplicationInsights.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.Web.Infrastructure.dll
+F:\Auction portal\auction_portal\auction_portal\bin\Newtonsoft.Json.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.Helpers.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.Mvc.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.Optimization.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.Razor.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Deployment.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Razor.dll
+F:\Auction portal\auction_portal\auction_portal\bin\WebGrease.dll
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.Helpers.xml
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.Mvc.xml
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.Optimization.xml
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.Razor.xml
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.xml
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Deployment.xml
+F:\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Razor.xml
+F:\Auction portal\auction_portal\auction_portal\bin\Newtonsoft.Json.xml
+F:\Auction portal\auction_portal\auction_portal\bin\Antlr3.Runtime.pdb
+F:\Auction portal\auction_portal\auction_portal\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.DependencyCollector.xml
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.WindowsServer.xml
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Web.xml
+F:\Auction portal\auction_portal\auction_portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csprojAssemblyReference.cache
+F:\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csproj.CoreCompileInputs.cache
+F:\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csproj.CopyComplete
+F:\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.dll
+F:\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.pdb
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\ApplicationInsights.config
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\auction_portal.dll.config
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\auction_portal.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\auction_portal.pdb
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.exe
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.exe.config
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.rsp
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\csi.exe
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\csi.rsp
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\System.AppContext.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Collections.Immutable.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\System.IO.FileSystem.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Reflection.Metadata.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.exe
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.exe.config
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.rsp
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\VBCSCompiler.exe
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\roslyn\VBCSCompiler.exe.config
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Antlr3.Runtime.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\EntityFramework.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\EntityFramework.SqlServer.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.DependencyCollector.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Web.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.WindowsServer.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.ApplicationInsights.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.Web.Infrastructure.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Newtonsoft.Json.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.Helpers.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.Mvc.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.Optimization.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.Razor.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Deployment.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Razor.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\WebGrease.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\EntityFramework.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\EntityFramework.SqlServer.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.Helpers.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.Mvc.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.Optimization.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.Razor.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Deployment.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Razor.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Newtonsoft.Json.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Antlr3.Runtime.pdb
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.DependencyCollector.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.WindowsServer.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Web.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csprojAssemblyReference.cache
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csproj.CoreCompileInputs.cache
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csproj.CopyComplete
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.dll
+F:\Developer Mode\Projects\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.pdb
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\ApplicationInsights.config
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\auction_portal.dll.config
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\auction_portal.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\auction_portal.pdb
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.exe
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.exe.config
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\csc.rsp
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\csi.exe
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\csi.rsp
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\System.AppContext.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Collections.Immutable.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\System.IO.FileSystem.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\System.Reflection.Metadata.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.exe
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.exe.config
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\vbc.rsp
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\VBCSCompiler.exe
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\roslyn\VBCSCompiler.exe.config
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Antlr3.Runtime.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\EntityFramework.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\EntityFramework.SqlServer.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.DependencyCollector.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Web.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.WindowsServer.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.ApplicationInsights.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.Web.Infrastructure.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Newtonsoft.Json.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.Helpers.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.Mvc.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.Optimization.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.Razor.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Deployment.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Razor.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\WebGrease.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\EntityFramework.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\EntityFramework.SqlServer.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.Helpers.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.Mvc.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.Optimization.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.Razor.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Deployment.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Web.WebPages.Razor.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Newtonsoft.Json.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Antlr3.Runtime.pdb
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.DependencyCollector.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.WindowsServer.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AI.Web.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csprojAssemblyReference.cache
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csproj.CoreCompileInputs.cache
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.csproj.CopyComplete
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\obj\Debug\auction_portal.pdb
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Owin.dll
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Developer Mode\Project\Auction portal\auction_portal\auction_portal\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
